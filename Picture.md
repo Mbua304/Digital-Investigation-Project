@@ -50,12 +50,18 @@ This project simulated **real-world threat analysis**, providing practical exper
 ---
 
 ### **2. PNG File — `BNS02.PNG`**
+<img width="364" height="364" alt="Screenshot 2025-08-15 215448" src="https://github.com/user-attachments/assets/a3ffa211-60bd-4f47-b581-dde1d7a4a9de" />
+
+
 - **Description:** Official **BNS Cyberlab Limited** logo.
 - **Use Case:** Featured in internship documentation and reporting.
 
 ---
 
 ### **3. PDF File — `BNS03.PDF`**
+
+<img width="716" height="399" alt="Screenshot 2025-08-15 215528" src="https://github.com/user-attachments/assets/42a62ee9-d4da-438f-adfe-bb722c795ca0" />
+
 - **Description:** Document explaining **Network Traffic Analysis** concepts and its cybersecurity role.
 - **Highlights:**
   - Definition and importance of Network Traffic Analysis
@@ -64,6 +70,11 @@ This project simulated **real-world threat analysis**, providing practical exper
 ---
 
 ### **4. ZIP File — `BNS04.ZIP`**
+<img width="504" height="703" alt="Screenshot 2025-08-11 001833" src="https://github.com/user-attachments/assets/4224e50b-fd9c-4bfa-bf39-f6e4e048eeb7" />
+
+
+<img width="1342" height="809" alt="Screenshot 2025-08-11 001231" src="https://github.com/user-attachments/assets/3c19a511-1c32-493d-9ef3-53feeb9ad18f" />
+
 - **Description:** Additional project files and materials.
 - **Possible Contents:**
   - Raw datasets
