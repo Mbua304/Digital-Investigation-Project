@@ -42,6 +42,7 @@ This project simulated **real-world threat analysis**, providing practical exper
 
 ### **1. JPG File — `BNS01.JPG`**
 
+<img width="667" height="370" alt="Screenshot 2025-08-15 215253" src="https://github.com/user-attachments/assets/06cd29fd-9e30-492d-8a04-3b9ba7feaa1c" />
 
 - **Description:** Congratulatory image for locating a hidden visual during the internship exercise.
 - **Contents:** Lead trainer *Ali S. Benson* in a cybersecurity-themed setting representing the **Network Traffic Analysis** module.
