@@ -41,7 +41,22 @@ This project simulated **real-world threat analysis**, providing practical exper
 ##  Analysis Results 
 ### Use Wireshark to capture network activity and export the relevant packets: ( eg, HTTP file transfer) ### 
 
-<img width="1919" height="337" alt="Capture network traffic" src="https://github.com/user-attachments/assets/898bba45-68f9-4c03-8066-f2b680b373f1" />
+<img width="1919" height="337" alt="Capture network traffic" src="https://github.com/user-attachments/assets/898bba45-68f9-4c03-8066-f2b680b373f1" /> 
+
+
+### Identify files, right click> follow> TCP stream,
+
+<img width="1066" height="304" alt="TCP Stream" src="https://github.com/user-attachments/assets/b5eaac6c-37b8-498c-93e4-c0441a272c45" />
+
+
+### Open the exported data in HxD. -Identify file signatures (e.g., PNG: 89 50 4E 47, JPG: FF D8 FF, PDF: %PDF, ZIP: 50 4B 03 04).
+
+
+<img width="1854" height="755" alt="HxD  Analysis" src="https://github.com/user-attachments/assets/c39fff35-2729-4cee-b834-ed2e74d3637c" />
+
+
+
+
 
 
 ### **1. JPG File — `BNS01.JPG`**
