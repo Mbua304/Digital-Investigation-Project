@@ -38,7 +38,11 @@ This project simulated **real-world threat analysis**, providing practical exper
 
 ---
 
-##  Analysis Results
+##  Analysis Results 
+### Use Wireshark to capture network activity and export the relevant packets: ( eg, HTTP file transfer) ### 
+
+<img width="1919" height="337" alt="Capture network traffic" src="https://github.com/user-attachments/assets/898bba45-68f9-4c03-8066-f2b680b373f1" />
+
 
 ### **1. JPG File — `BNS01.JPG`**
 
